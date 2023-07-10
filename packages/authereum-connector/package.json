@@ -18,10 +18,10 @@
     "dapp",
     "authereum"
   ],
-  "author": "Noah Zinsmeister <noahwz@gmail.com>",
+  "author": "Naoki Murano <naokimurano@outlook.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/NoahZinsmeister/web3-react.git"
+    "url": "git://github.com/supermutecx/web3-double-react.git"
   },
   "main": "dist/index.js",
   "module": "dist/authereum-connector.esm.js",
