@@ -1,0 +1,14 @@
+{
+  "version": "8.2.1",
+  "npmClient": "yarn",
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "*.md"
+      ]
+    }
+  },
+  "packages": [
+    "packages/*"
+  ]
+}
