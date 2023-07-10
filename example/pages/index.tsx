@@ -1,11 +1,11 @@
 import React from 'react'
-import { Web3ReactProvider, useWeb3React, UnsupportedChainIdError } from '@web3-react/core'
+import { Web3ReactProvider, useWeb3React, UnsupportedChainIdError } from '@web3-double-react/core'
 import {
   NoEthereumProviderError,
   UserRejectedRequestError as UserRejectedRequestErrorInjected
-} from '@web3-react/injected-connector'
-import { UserRejectedRequestError as UserRejectedRequestErrorWalletConnect } from '@web3-react/walletconnect-connector'
-import { UserRejectedRequestError as UserRejectedRequestErrorFrame } from '@web3-react/frame-connector'
+} from '@web3-double-react/injected-connector'
+import { UserRejectedRequestError as UserRejectedRequestErrorWalletConnect } from '@web3-double-react/walletconnect-connector'
+import { UserRejectedRequestError as UserRejectedRequestErrorFrame } from '@web3-double-react/frame-connector'
 import { Web3Provider } from '@ethersproject/providers'
 import { formatEther } from '@ethersproject/units'
 

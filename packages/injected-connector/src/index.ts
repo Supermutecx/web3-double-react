@@ -1,5 +1,5 @@
-import { AbstractConnectorArguments, ConnectorUpdate } from '@web3-react/types'
-import { AbstractConnector } from '@web3-react/abstract-connector'
+import { AbstractConnectorArguments, ConnectorUpdate } from '@web3-double-react/types'
+import { AbstractConnector } from '@web3-double-react/abstract-connector'
 import warning from 'tiny-warning'
 
 import { SendReturnResult, SendReturn, Send, SendOld } from './types'
