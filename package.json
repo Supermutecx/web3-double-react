@@ -52,8 +52,5 @@
     "semi": false,
     "singleQuote": true,
     "printWidth": 120
-  },
-  "dependencies": {
-    "@walletconnect/modal": "^2.5.9"
   }
 }

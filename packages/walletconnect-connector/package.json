@@ -35,7 +35,8 @@
     "lint": "tsdx lint src"
   },
   "dependencies": {
-    "@walletconnect/ethereum-provider": "2.9.0",
+    "@walletconnect/ethereum-provider": "^2.8.6",
+    "@walletconnect/modal": "^2.5.9",
     "@web3-double-react/abstract-connector": "latest",
     "@web3-double-react/types": "latest",
     "tiny-invariant": "^1.0.6"
